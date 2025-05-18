@@ -1,4 +1,4 @@
-# ⚡️ Oliviero Pinotti
+# Oliviero Pinotti
 
 > Swiss · Italian · German | Founding Engineer @ **Stacksync** (YC)
 
