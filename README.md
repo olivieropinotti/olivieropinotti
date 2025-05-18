@@ -23,6 +23,7 @@
 -   Started BSc in Business Management at EHL Hospitality Business School, Lausanne 🇨🇭
 -   Got quickly bored and launched first start-up, StudyBud, tutoring marketplace delivering **3 000+ hours** to **1 000+ students**, 70 % YoY retention.
 -   Created a team of 5, raised money from government and won startup competitions.
+-   Built Kerno, a tool to incorporate Swiss companies in minutes. Got a couple of paying customers.
 
 **14 – 18 yrs:**
 
