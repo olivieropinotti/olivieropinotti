@@ -9,17 +9,17 @@
 
 
 **22 yrs – now:**
--   Engineering @ Stacksync (YC W24)
+-   Engineering @ **Stacksync (YC W24)**
 -   Design and ship the Workflows platform, created the connector SDK, Workflow queues, etc. processing millions of records for enterprise customers.
 -   Graduated Business School
--   Got accepted into NUS's Master in Computer Science, but dropped out to build after 1 month
+-   Got accepted into **NUS's Master in Computer Science**, but **dropped out** to build after 1 month
 
 **21 – 22 yrs:**
 -   Into my second year at business school I started skipping all courses to become technical.
 -   Built my first full-stack app in ~ 3 months.
 -   Won SwissHacks Hackathon, built a RAG system that won Microsoft’s finance challenge **and** overall 1st prize.
 -   Attended YC Startup School 2024
--   Joined Stacksync (backed by YC) as a Software Engineer, building Workflows.
+-   Joined **Stacksync (backed by YC)** as a Software Engineer, building Workflows.
 
 **18 – 21 yrs:**
 -   Started BSc in Business Management at EHL Hospitality Business School, Lausanne 🇨🇭
