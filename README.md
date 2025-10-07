@@ -7,12 +7,13 @@
 
 ### timeline highlights
 
+**23 yrs – now:**
+-   Got accepted into **NUS's Master in Computer Science**, but **dropped out** to build
 
-**22 yrs – now:**
+**22 – 23 yrs:**
 -   Engineering @ **Stacksync (YC W24)**
 -   Design and ship the Workflows platform, created the connector SDK, Workflow queues, etc. processing millions of records for enterprise customers.
 -   Graduated Business School
--   Got accepted into **NUS's Master in Computer Science**, but **dropped out** to build after 1 month
 
 **21 – 22 yrs:**
 -   Into my second year at business school I started skipping all courses to become technical.
