@@ -1,6 +1,6 @@
 # Oliviero Pinotti
 
-> Italian • Founder/Engineer with a business mindset and engineering skillset.
+> Italian-Swiss-German • Founder/Engineer with a business mindset and engineering skillset.
 
 [Email](mailto:oliviero.pinotti@gmail.com) • [LinkedIn](https://www.linkedin.com/in/oliviero-pinotti)
 
