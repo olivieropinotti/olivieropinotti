@@ -8,7 +8,8 @@
 ### timeline highlights
 
 **23 yrs – now:**
--   Got accepted into **NUS's Master in Computer Science**, but **dropped out** to build
+-   Started Solstis (YC W26)
+-   Got into **NUS's Master in Computer Science**, but **dropped out** to build
 
 **22 – 23 yrs:**
 -   Engineering @ **Stacksync (YC W24)**
