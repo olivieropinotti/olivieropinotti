@@ -8,7 +8,7 @@
 ### timeline highlights
 
 **23 yrs – now:**
--   Started Solstis (YC W26)
+-   Started Tensol (YC W26)
 -   Got into **NUS's Master in Computer Science**, but **dropped out** to build
 
 **22 – 23 yrs:**
