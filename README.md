@@ -8,6 +8,7 @@
 ### timeline highlights
 
 **23 yrs – now:**
+-   Founder Alfera.ai
 -   Started Tensol (YC W26)
 -   Got into **NUS's Master in Computer Science**, but **dropped out** to build
 
